@@ -9,4 +9,8 @@
 
 ![image](https://github.com/user-attachments/assets/a98ad5c7-fca7-4bb7-82ab-73cfecf684e5)
 
-## Generando un directorio compartido para NFS
+## Generando un directorio compartido para NFS y le especificamos una ruta compartida en el servidor: 192.168.1.100:/srv/nfs/share
+
+
+
+### 
